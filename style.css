@@ -1,0 +1,196 @@
+@charset "utf-8";
+.body
+{
+        border:1px solid black;
+        margin: 0 auto;
+        width:960px;
+        background:pink;
+}
+.container {
+	font-family: 'Merriweather', serif;
+	font-size: 14px;
+	height: 768px;
+	width: 3000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.header {
+	font-family: 'Merriweather', serif;
+	font-size: 14px;
+	height: 500px;
+	width: 1024px;
+	font-style: normal;
+	font-weight: bold;
+	
+}
+.icerik {
+	font-family: 'Merriweather', serif;
+	font-size: 14px;
+	float: left;
+	height: 2100px;
+	width: 1024px;
+	background-color: #FFF;
+}
+
+.footer {
+	font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+	font-size: 14px;
+	color: #000;
+	background-color: #FFF;
+	float: left;
+	height: 350px;
+	width: 1024px;
+}
+.menu {
+	font-family: 'Merriweather', serif;
+	font-size: 18px;
+	background-color: #FFF;
+	height: 70px;
+	width: 550px;
+	float: right;
+	margin-top: 15px;
+	margin-right: 50px;
+}
+.logo {
+	background-color: #9CF;
+	height: 151px;
+	width: 272px;
+	float: left;
+	margin-left: 380px;
+	}
+
+
+#baslik {
+	background-color: #FFF;
+	position: absolute;
+	left: 288px;
+	top: 209px;
+	color: #D95972;
+	width: 475px;
+	height: 31px;
+}
+.header #baslik {
+	font-family: 'Merriweather', serif;
+	font-size:24px;
+}
+#resim1 {
+	height: 245px;
+	width: 480px;
+	position: absolute;
+	left: 191px;
+	top: 430px;
+}
+#hakkimizda {
+	font-family: 'Merriweather', serif;
+	font-size: 18px;
+	font-style: normal;
+	background-color: #FFF;
+	position: absolute;
+	left: 21px;
+	top: 912px;
+	width: 939px;
+}
+
+.header #hakkimizda p {
+	font-family: 'Merriweather', serif;
+	font-size: 18px;
+	
+}
+#hakkimizdabaslik {
+	font-family: 'Merriweather', serif;
+	font-size: 24px;
+	font-weight: bold;
+	background-color: #FFF;
+	color: #D95972;
+	position: absolute;
+	left: 372px;
+	top: 863px;
+}
+#hizmetlerimizbaslik {
+	font-family: 'Merriweather', serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: #D95972;
+	background-color: #FFF;
+	position: absolute;
+	left: 364px;
+	width: 124px;
+	top: 589px;
+	height: 0px;
+}
+#hizmetlerimiz {
+	font-family: 'Merriweather', serif;
+	font-size: 18px;
+	font-style: normal;
+	background-color: #FFF;
+	position: absolute;
+	left: -10px;
+	top: 635px;
+	width: 938px;
+	height: 185px;
+}
+#referans {
+	background-color: #FFF;
+	position: absolute;
+	left: -40px;
+	top: 240px;
+	width: 945px;
+	height: 189px;
+}
+
+#logolar {
+	height: 281px;
+	width: 500px;
+	position: absolute;
+	left: 202px;
+	top: 236px;
+}
+#resim1 {
+	height: 379px;
+	width: 648px;
+	position: absolute;
+}
+#harita {
+	position: absolute;
+	height: 400px;
+	width: 800px;
+	left: 9px;
+	top: 229px;
+}
+#iletisim {
+	position: absolute;
+	height: 80px;
+	width: 60px;
+	left: 21px;
+	top: 2357px;
+}
+#iletisim {
+	height: 150px;
+	width: 200px;
+	position: absolute;
+}
+.header .footer #iletisim p {
+	font-size: 18px;
+	font-family: 'Merriweather', serif;
+	
+	
+}
+#adres {
+	height: 150px;
+	width: 200px;
+	position: absolute;
+	left: 383px;
+	top: 2px;
+}
+#calismasaatleri {
+	height: 150px;
+	width: 200px;
+	position: absolute;
+}
+#calismasaatleri {
+	height: 200px;
+	width: 200px;
+	position: absolute;
+	left: 753px;
+	top: -94px;
+}
